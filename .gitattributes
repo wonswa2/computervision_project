@@ -1,3 +1,4 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 C:/Users/82105/cv/chapter6.py/dist/6-5.exe filter=lfs diff=lfs merge=lfs -text
 C:/Users/82105/cv/chapter6.py/dist/6-7.exe filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
